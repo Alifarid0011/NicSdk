@@ -1,0 +1,20 @@
+{
+    "response": {
+        "result": {
+            "@attributes": {
+                "code": "1000"
+            },
+            "msg": "Command completed successfully"
+        },
+        "msgQ": {
+            "@attributes": {
+                "count": "2",
+                "id": "26543"
+            }
+        },
+        "trID": {
+            "clTRID": "TEST-12345",
+            "svTRID": "IRNIC_2021-09-13T15:04:50+04:30_ggy"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+
+        "response": {
+            "result": {
+                "@code": "2200",
+                "msg": "Authentication error"
+            },
+            "trID": {
+                "clTRID": "TEST-1643016169",
+                "svTRID": "IRNIC_2022-01-24T12:52:49+03:30_bs4"
+            }
+        }
+
+}

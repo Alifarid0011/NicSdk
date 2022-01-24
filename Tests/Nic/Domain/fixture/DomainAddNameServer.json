@@ -1,0 +1,14 @@
+{
+    "response": {
+        "result": {
+            "@attributes": {
+                "code": "2201"
+            },
+            "msg": "Authorization error"
+        },
+        "trID": {
+            "clTRID": "TEST-12345",
+            "svTRID": "IRNIC_2021-09-13T14:28:11+04:30_m32"
+        }
+    }
+}

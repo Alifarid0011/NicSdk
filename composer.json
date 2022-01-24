@@ -1,0 +1,29 @@
+{
+    "name": "fndev/nic",
+    "autoload": {
+        "psr-4": {
+            "FNDEV\\Nic\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ali Farid",
+            "email": "alifarid0011@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/support": ">= v8.0.0",
+        "ext-json": "*",
+        "guzzlehttp/guzzle": "^7.0"
+    }
+,
+    "autoload-dev": {
+        "psr-4": {
+            "FNDEV\\Nic\\Tests\\": "Tests/"
+        }
+    },
+    "require-dev": {
+        "roave/security-advisories": "dev-latest",
+        "phpunit/phpunit": "^9.5"
+    }
+}

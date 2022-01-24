@@ -1,0 +1,13 @@
+{
+    "response": {
+        "result": {
+            "@attributes": {
+                "code": "2102"
+            },
+            "msg": "Unimplemented option"
+        },
+        "trID": {
+            "svTRID": "IRNIC_2021-09-13T13:33:22+04:30_ihu"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "response": {
+        "result": {
+            "@attributes": {
+                "code": "1301"
+            },
+            "msg": "Command completed successfully; ack to dequeue"
+        },
+        "msgQ": {
+            "@attributes": {
+                "count": "3",
+                "id": "26543"
+            },
+            "qDate": "2021-09-07T14:16:00",
+            "msg": {
+                "index": "DomainUpdateStatus",
+                "note": {}
+            }
+        },
+        "resData": {},
+        "trID": {
+            "clTRID": "TEST-12345",
+            "svTRID": "IRNIC_2021-09-13T15:02:25+04:30_tl5"
+        }
+    }
+}

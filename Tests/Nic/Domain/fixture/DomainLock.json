@@ -1,0 +1,18 @@
+{
+    "response": {
+        "result": {
+            "@attributes": {
+                "code": "2306"
+            },
+            "msg": "Parameter value policy error",
+            "extValue": {
+                "value": {},
+                "reason": "Access Denied."
+            }
+        },
+        "trID": {
+            "clTRID": "TEST-12345",
+            "svTRID": "IRNIC_2021-09-13T14:36:22+04:30_e94"
+        }
+    }
+}
